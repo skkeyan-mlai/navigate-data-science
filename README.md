@@ -2,7 +2,7 @@
 
 Data Science is fascinating to its practitioners due to the breadth & depth of solutions it can offer to a wide range of problems. But there is also the danger of getting lost among all the techniques & hype. This talk is intended to help formulate a simple, personal data science map of sorts for individuals as they try to navigate this world in their own way.
 
-** Here is my list of Ten Categories to help navigate the world of data science **
+**Here is my list of Ten Categories to help navigate the world of data science**
 
 > Category-1: Supervised Machine Learning on Structured data
 
