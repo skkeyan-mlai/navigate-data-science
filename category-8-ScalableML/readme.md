@@ -1,0 +1,1 @@
+This folder has illustrative examples of using machine learning in a distributed environment. Spark is considered the defacto standard for scalable machine learning and the examples will be using SparkMLLib through the Python PySpark interface.
