@@ -1,0 +1,1 @@
+Reinforcement Learning is a branch of machine learning that helps in taking decisions in an environment that provides delayed feedback. This area is closely related to Artificial Intelligence where software agents take a series of actions with an ultimate objective of reaching a pre-defined goal.
